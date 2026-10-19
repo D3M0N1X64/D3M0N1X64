@@ -1,13 +1,15 @@
-## Hi, I'm Ashton 👋
+## Ashton Lee
 
-Network administrator at **Alabama Goodwill Industries**, where I keep the network, and the people who depend on it, connected and running. I also write code, design databases and plan projects.
+**Network Administrator · IT Specialist · Programmer**
 
-- 🛰️ 8+ years in IT, from remote Mac+ support at Apple to running a multi-site network
-- 🎓 Senior in Capella University's ABET-accredited BS in Information Technology (after 3 years of Computer Science at Auburn)
-- 🔧 Happiest on problems that need both halves of the brain: a misbehaving network, a database that needs to stay tidy, or a script that saves someone an afternoon
-- 🎸 Off the clock: motorcycles, guitars and games
+I'm a network administrator at **Alabama Goodwill Industries**, responsible for keeping a multi-site network, and the people who depend on it, connected, secure and running. Alongside infrastructure work, I write software, design databases and plan projects.
 
-### What I work with
+- 8+ years in IT, from remote Mac+ support at Apple to administering a multi-site network
+- Senior in Capella University's ABET-accredited B.S. in Information Technology, following three years of Computer Science coursework at Auburn University
+- Focused on problems that span infrastructure and software: diagnosing network issues, keeping data well structured, and automating repetitive work
+- Outside of work: motorcycles, guitar and game development
+
+### Skills
 
 `Networking` · `Firewalls & Wireless` · `Network Security` · `Troubleshooting` · `macOS` · `Programming` · `Databases` · `Project Planning`
 
@@ -15,7 +17,7 @@ Network administrator at **Alabama Goodwill Industries**, where I keep the netwo
 
 - **[Résumé site](https://d3m0n1x64.github.io/resume-space/)** ([source](https://github.com/D3M0N1X64/resume-space)): a mission-control themed résumé built with plain HTML, CSS and JavaScript, using NASA public-domain photography
 
-### Get in touch
+### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashton--ballard--lee-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashton-ballard-lee/)
 [![Email](https://img.shields.io/badge/Email-ashton.redsky%40gmail.com-4cc9f0?logo=gmail&logoColor=white)](mailto:ashton.redsky@gmail.com)

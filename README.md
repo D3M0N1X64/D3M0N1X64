@@ -16,7 +16,7 @@ I'm a network administrator at **Alabama Goodwill Industries**, responsible for 
 ### Projects
 
 - **[Résumé site](https://d3m0n1x64.github.io/resume-space/)** ([source](https://github.com/D3M0N1X64/resume-space)): a mission-control themed résumé built with plain HTML, CSS and JavaScript, using NASA public-domain photography
-- **DreadLabs** (private, in development): a desktop game creation toolkit built with Electron and Node.js, combining a sound and music synthesizer, a pixel art editor and an isometric level editor in one app, with exports for other engines (sprite atlases, Tiled maps, WAV)
+- **DreadLabs** (private, in development): a desktop game engine for pixel RPGs, built with Electron, Node.js and Phaser. Four editors in one app (a sound and music synthesizer, a pixel art editor with UI, font and effects designers, an isometric level and world-map editor, and a game data and rules editor) plus a runtime that plays a project instantly and builds it into a standalone Windows app, with exports for other engines (sprite atlases, Tiled maps, WAV)
 
 ### Contact
 
